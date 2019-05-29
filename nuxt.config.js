@@ -29,6 +29,13 @@ module.exports = {
   ],
 
   /*
+  ** Global CSS
+  */
+  css: [
+    '@/assets/css/global.scss',
+  ],
+
+  /*
   ** Headers of the page
   */
   head: {

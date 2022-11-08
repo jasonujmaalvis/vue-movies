@@ -15,10 +15,10 @@ Built as a side project to learn some new skills 🔥🔥
 
 ## Running
 
-``` bash
+```bash
 # install dependencies
-$ npm install # Or yarn install
+yarn
 
 # serve with hot reload at localhost:3000
-$ npm run dev
+yarn dev
 ```

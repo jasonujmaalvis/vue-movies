@@ -1,7 +1,12 @@
 export default {
+  // https://nuxtjs.org/deployments/netlify/
   target: "static",
 
   ssr: false,
+
+  generate: {
+    fallback: true,
+  },
 
   // Headers of the page
   head: {

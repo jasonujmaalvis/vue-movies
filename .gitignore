@@ -16,3 +16,6 @@ dist
 
 # @nuxtjs/pwa
 sw.*
+
+# OS Files
+.DS_Store

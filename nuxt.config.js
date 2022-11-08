@@ -1,4 +1,8 @@
 export default {
+  target: "static",
+
+  ssr: false,
+
   // Headers of the page
   head: {
     title: "Browse Movies, TV Shows and People",

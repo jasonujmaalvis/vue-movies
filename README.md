@@ -2,7 +2,7 @@
 
 Progressive web app featuring movies and tv shows from [The Movie Database (TMDb)](https://developers.themoviedb.org/3) API. Built using [Vue.js](https://github.com/vuejs/vue) and [Nuxt.js](https://github.com/nuxt/nuxt.js).
 
-Live demo hosted on Heroku can be found at [https://movies.jason.codes](https://movies.jason.codes).
+Live demo hosted on Netlify can be found at [https://movies.jason.codes](https://movies.jason.codes).
 
 Built as a side project to learn some new skills 🔥🔥
 

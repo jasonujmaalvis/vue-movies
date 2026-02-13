@@ -1,10 +1,18 @@
+## ⚠️ **NOTICE: This Repository is No Longer Maintained**
+
+This site is no longer maintained or hosted at https://movies.jason.codes.
+
+**Important Information:**
+- This application should only be used for **reference or learning purposes**
+- The Node.js version and package dependencies are **outdated and should not be used**
+- This repository should **not be used in production environments**
+- If you use this code as reference, please **remove or replace the copyright notice in the footer** with your own attribution
+
+---
+
 # vue-movies
 
 Progressive web app featuring movies and tv shows from [The Movie Database (TMDb)](https://developers.themoviedb.org/3) API. Built using [Vue.js](https://github.com/vuejs/vue) and [Nuxt.js](https://github.com/nuxt/nuxt.js).
-
-Live demo hosted on Netlify can be found at [https://movies.jason.codes](https://movies.jason.codes).
-
-Built as a side project to learn some new skills 🔥🔥
 
 ## Quick setup
 
@@ -18,7 +26,10 @@ Built as a side project to learn some new skills 🔥🔥
 ```bash
 # install dependencies
 yarn
-
 # serve with hot reload at localhost:3000
 yarn dev
 ```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
